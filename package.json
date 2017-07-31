@@ -1,0 +1,30 @@
+{
+  "name": "mongo-rest-api",
+  "version": "1.0.0",
+  "description": "A MongoDB with REST API built using Node example.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fcgomes92/mongo-rest-api.git"
+  },
+  "keywords": [
+    "mongo",
+    "node",
+    "js",
+    "rest"
+  ],
+  "author": "@fcgomes92",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fcgomes92/mongo-rest-api/issues"
+  },
+  "homepage": "https://github.com/fcgomes92/mongo-rest-api#readme",
+  "dependencies": {
+    "mongoose": "^4.11.5",
+    "mongoose-timestamp": "^0.6.0",
+    "restify": "^5.0.1"
+  }
+}
